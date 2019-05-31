@@ -1,0 +1,10 @@
+.DS_Store
+
+
+### movie
+*.mov
+*.mp4
+
+
+### Blender Backup
+*.blend1
